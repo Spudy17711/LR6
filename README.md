@@ -44,7 +44,11 @@ git push --set-upstream origin report
 ```
 __История коммитов__
 cd2918c, Fri Nov 19 20:03:12 2021 +0300, Spudy17711, addition
+
 208c195, Fri Nov 19 18:42:00 2021 +0300, Zubarev Denis, Create newfile
+
 921f53b, Sat Nov 21 20:09:49 2020 +0300, Kurtyanik, Обновление информации
+
 c08a654, Sat Nov 21 20:02:16 2020 +0300, Kurtyanik, Файл создан пустым
+
 3c6e913, Sat Nov 21 19:58:20 2020 +0300, Kurtyanik, Initial commit
