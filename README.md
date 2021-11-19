@@ -1,7 +1,7 @@
 # LR6
 Лабораторная работа №6
 Репозиторий клонирован на компьютер
-![screen1](https://github.com/Spudy17711/LR6/tree/master/screenshots/1.jpeg)
+![screen1](https://github.com/Spudy17711/LR6/raw/master/screenshots/1.jpeg)
 Добавлен файл и подтянуты изменения в локальный 
 ![screen2](screenshots/1,5.jpeg)
 Получена история операций для каждой ветки
