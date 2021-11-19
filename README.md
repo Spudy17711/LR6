@@ -1,5 +1,6 @@
 # LR6
 Лабораторная работа №6
+
 __1.Репозиторий клонирован на компьютер__
 ![screen1](https://github.com/Spudy17711/LR6/blob/master/screenshots/1.jpg)
 
@@ -14,6 +15,7 @@ __4.Получена последние изменения__
 
 __5.Выполнено слияние в ветку master__ 
 ![screen5](https://github.com/Spudy17711/LR6/blob/master/screenshots/4.jpg)
+
 ![screen6](https://github.com/Spudy17711/LR6/blob/master/screenshots/4,5.jpg)
 
 __6.Внесено изменение и после закоммичено__
