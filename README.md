@@ -13,9 +13,9 @@ __3.Получена история операций для каждой вет�
 __4.Получена последние изменения__
 ![screen4](https://github.com/Spudy17711/LR6/blob/master/screenshots/3.jpg)
 
-__5.Выполнено слияние в ветку master__ 
-![screen5](https://github.com/Spudy17711/LR6/blob/master/screenshots/4.jpg)
+__5.Выполнено слияние в ветку master__
 
+![screen5](https://github.com/Spudy17711/LR6/blob/master/screenshots/4.jpg)
 ![screen6](https://github.com/Spudy17711/LR6/blob/master/screenshots/4,5.jpg)
 
 __6.Внесено изменение и после закоммичено__
