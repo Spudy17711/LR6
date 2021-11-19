@@ -13,14 +13,14 @@
 ![screen4](https://github.com/Spudy17711/LR6/blob/master/screenshots/3.jpg)
 
 Выполнено слияние в ветку master 
-![screen4](https://github.com/Spudy17711/LR6/blob/master/screenshots/4.jpg)
-![screen4](https://github.com/Spudy17711/LR6/blob/master/screenshots/4,5.jpg)
+![screen5](https://github.com/Spudy17711/LR6/blob/master/screenshots/4.jpg)
+![screen6](https://github.com/Spudy17711/LR6/blob/master/screenshots/4,5.jpg)
 
 Внесено изменение и после закоммичено
-![screen4](https://github.com/Spudy17711/LR6/blob/master/screenshots/5.jpg)
+![screen7](https://github.com/Spudy17711/LR6/blob/master/screenshots/5.jpg)
 
 Осуществлен "хард" откат коммита
-![screen4](https://github.com/Spudy17711/LR6/blob/master/screenshots/6.jpg)
+![screen8](https://github.com/Spudy17711/LR6/blob/master/screenshots/6.jpg)
 
 Создана ветка для отчета report и загружаем в удаленный репозиторий
-![screen4](https://github.com/Spudy17711/LR6/blob/master/screenshots/7.jpg)
+![screen9](https://github.com/Spudy17711/LR6/blob/master/screenshots/7.jpg)
