@@ -24,3 +24,19 @@
 
 Создана ветка для отчета report и загружаем в удаленный репозиторий
 ![screen9](https://github.com/Spudy17711/LR6/blob/master/screenshots/7.jpg)
+
+Лог команд
+```
+git clone https://github.com/Spudy17711/LR6
+git pull
+git reflog --all
+git log -p
+git checkout master
+git merge master
+git status
+git add addfile.txt
+git commit -m "addition"
+git reset --hard @
+git checkout -b report
+git push --set-upstream origin report
+```
